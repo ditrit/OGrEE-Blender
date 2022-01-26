@@ -25,4 +25,5 @@ if ob.data.materials:
 else:
     ob.data.materials.append(mat)
 
-bpy.ops.export_scene.fbx(filepath = os.path.dirname(__file__) + "/outputs/hardisk.fbx")
+nbfile = len(os.listdir(os.path.dirname(__file__) + "/outputs/"))
+bpy.ops.export_scene.fbx(filepath = os.path.dirname(__file__) + "/outputs/hardisk_" + str(nbfile) + ".fbx")
