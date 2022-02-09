@@ -1,11 +1,12 @@
-#!/usr/bin/python
-
 import numpy as np
 import scipy.ndimage
 import scipy.misc
 from scipy import ndimage
 import argparse
-
+import matplotlib.pyplot as plt
+import matplotlib as cm
+import matplotlib.image as mpimg
+from PIL import Image
 
 def smooth_gaussian(im, sigma):
 
@@ -83,23 +84,13 @@ def compute_normal_map(gradient_x, gradient_y, intensity=1):
     return normal_map
 
 
-def main():
+def generate_definitive_normal(input_path, output_path, smooth_input, intensity_input):
 
-    parser = argparse.ArgumentParser(description='Compute normal map of an image')
+    sigma = smooth_input
+    intensity = intensity_input
+    input_file = input_path
 
-    parser.add_argument('input_file', type=str, help='input image path')
-    parser.add_argument('output_file', type=str, help='output image path')
-    parser.add_argument('-s', '--smooth', default=0., type=float, help='smooth gaussian blur applied on the image')
-    parser.add_argument('-it', '--intensity', default=1., type=float, help='intensity of the normal map')
-
-    args = parser.parse_args()
-
-    sigma = args.smooth
-    intensity = args.intensity
-    input_file = args.input_file
-    output_file = args.output_file
-
-    im = ndimage.imread(input_file)
+    im = mpimg.imread(input_file)
 
     if im.ndim == 3:
         im_grey = np.zeros((im.shape[0],im.shape[1])).astype(float)
@@ -111,12 +102,9 @@ def main():
     sobel_x, sobel_y = sobel(im_smooth)
 
     normal_map = compute_normal_map(sobel_x, sobel_y, intensity)
+    
+    plt.imsave(output_path, normal_map, cmap='Greys')
 
-    scipy.misc.imsave(output_file, normal_map)
-
-
-if __name__ == "__main__":
-    main()
 
 
 

@@ -4,6 +4,7 @@ import os
 import modules.normal_map_generator as normal
 import json
 import requests
+import modules.normal_map_generator as normal
 
 # Variable part - Start
 size_max_x = 128
@@ -161,6 +162,8 @@ background.paste(new_img, offset)
 # Bottom - end
 
 background.save('temp/out.png')
+
+normal.generate_definitive_normal('temp/out.png', 'temp/normal.png', 0.5, 1)
 
 # Start blender
 os.chdir("C:\\Program Files\\Blender Foundation\\Blender 3.0")
