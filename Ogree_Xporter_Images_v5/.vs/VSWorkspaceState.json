@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\modules",
-    "\\resources",
-    "\\resources\\hpe-lff-disk",
-    "\\resources\\hpe-lff-disk\\textures",
-    "\\temp"
+    "\\outputs"
   ],
   "SelectedNode": "\\main.py",
   "PreviewInSolutionExplorer": false

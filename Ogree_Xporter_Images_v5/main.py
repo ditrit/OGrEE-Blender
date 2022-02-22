@@ -5,6 +5,7 @@ import modules.normal_map_generator as normal
 import json
 import requests
 import modules.normal_map_generator as normal
+import glob
 
 # Variable part - Start
 size_max_x = 128
@@ -14,7 +15,11 @@ modifier_size_modifier = 1.5
 
 json_config = json.load(open('resources/config.json', 'r'))
 name_image = json_config["selectedModel"]
-json_component =  json.load(open('resources/' + name_image + '/component.json', 'r'))
+potential_json = glob.glob("resources/**/*.json", recursive=True)
+for item in potential_json:
+    if item.endswith(".json"):
+        json_component_path = item
+json_component =  json.load(open(json_component_path, 'r'))
 
 
 # Taking image from source - start
@@ -70,29 +75,45 @@ except:
     print("No left texture")
 # Taking image from source - end
 
-# Recover images - start
+
+tex = glob.glob("resources/"+  str(name_image) + "/**/*.png", recursive=True)
+print(tex)
+
+for item in tex:
+    if item.endswith("front.png"):
+        img_front_path = item
+    if item.endswith("rear.png"):
+        img_rear_path = item
+    if item.endswith("top.png"):
+        img_top_path = item
+    if item.endswith("bottom.png"):
+        img_bottom_path = item
+    if item.endswith("right.png"):
+        img_right_path = item
+    if item.endswith("left.png"):
+        img_left_path = item
 try:
-    img_front = Image.open("resources/" +  str(name_image) + "/textures/front.png", "r")
-except:
-    print("No front")
-try:
-    img_rear = Image.open("resources/" +  str(name_image) + "/textures/rear.png", "r")
+    img_front = Image.open(img_front_path, "r")
 except:
     print("No rear")
 try:
-    img_top = Image.open("resources/" +  str(name_image) + "/textures/top.png", "r")
+    img_rear = Image.open(img_rear_path, "r")
+except:
+    print("No rear")
+try:
+    img_top = Image.open(img_top_path, "r")
 except:
     print("No top")
 try:
-    img_bottom = Image.open("resources/" +  str(name_image) + "/textures/bottom.png", "r")
+    img_bottom = Image.open(img_bottom_path, "r")
 except:
     print("No bottom")
 try:
-    img_right = Image.open("resources/" +  str(name_image) + "/textures/right.png", "r")
+    img_right = Image.open(img_right_path, "r")
 except:
     print("No right")
 try:
-    img_left = Image.open("resources/" +  str(name_image) + "/textures/left.png", "r")
+    img_left = Image.open(img_left_path, "r")
 except:
     print("No left")
 # Recover image - end

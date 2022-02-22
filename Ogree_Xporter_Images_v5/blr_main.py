@@ -10,12 +10,23 @@ bpy.ops.object.delete()
 
 bpy.ops.import_scene.fbx( filepath = os.path.dirname(__file__) + "/models/classic_disk.fbx" )
 
+# - - - TEXTURE PART - - -
 mat = bpy.data.materials.new(name="Disk")
 mat.use_nodes = True
 bsdf = mat.node_tree.nodes["Principled BSDF"]
 texImage = mat.node_tree.nodes.new('ShaderNodeTexImage')
 texImage.image = bpy.data.images.load(os.path.dirname(__file__) + "/temp/out.png")
 mat.node_tree.links.new(bsdf.inputs['Base Color'], texImage.outputs['Color'])
+
+# - - - NORMAL PART - - -
+# Creating normal map
+##norm = mat.node_tree.nodes.new["Normal Map"]
+
+# Creating image for normal map
+norm = mat.node_tree.nodes.new('ShaderNodeTexImage')
+norm.image = bpy.data.images.load(os.path.dirname(__file__) + "/temp/normal.png")
+mat.node_tree.links.new(bsdf.inputs['Normal'], norm.outputs['Color'])
+
 
 ob = bpy.data.objects['disk']
 
