@@ -15,7 +15,7 @@ modifier_size_modifier = 1.5
 
 json_config = json.load(open('resources/config.json', 'r'))
 name_image = json_config["selectedModel"]
-potential_json = glob.glob("resources/**/*.json", recursive=True)
+potential_json = glob.glob("resources/**/" + str(name_image) + ".json", recursive=True)
 for item in potential_json:
     if item.endswith(".json"):
         json_component_path = item
