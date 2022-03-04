@@ -1,4 +1,5 @@
 from PIL import Image
+import PIL
 import math
 import os
 import modules.normal_map_generator as normal
@@ -6,9 +7,10 @@ import json
 import requests
 import modules.normal_map_generator as normal
 import glob
+import math
 
 # Variable part - Start
-size_max_x = 128
+size_img = 512
 modifier_size_base = 4
 modifier_size_modifier = 1.5
 # Variable part - End
@@ -119,15 +121,16 @@ except:
 # Recover image - end
 
 img_w, img_h = img_front.size
-background = Image.open('resources/base.png', 'r')
+background = PIL.Image.new(mode="RGB", size=(size_img, size_img))
 
 bg_w, bg_h = background.size
+
 
 # Front - start
 offset = (0, 0)
 modifier_size =  math.ceil(bg_w / bg_h)
-size_y = math.ceil(size_max_x * (bg_w / bg_h) / modifier_size_modifier)
-new_size = (size_max_x * modifier_size * modifier_size_base, size_y * modifier_size)
+size_y = math.ceil(size_img/4 * (bg_w / bg_h) / modifier_size_modifier)
+new_size = (math.ceil(size_img/4 * modifier_size * modifier_size_base), size_y * modifier_size)
 new_img = img_front.resize(new_size)
 background.paste(new_img, offset)
 # Front - end
@@ -136,8 +139,8 @@ background.paste(new_img, offset)
 img_x_rear, img_y_rear = new_size
 offset = (0, img_y_rear)
 modifier_size =  math.ceil(bg_w / bg_h)
-size_y = math.ceil(size_max_x * (bg_w / bg_h) / modifier_size_modifier)
-new_size = (size_max_x * modifier_size * modifier_size_base, size_y * modifier_size)
+size_y = math.ceil(size_img/4 * (bg_w / bg_h) / modifier_size_modifier)
+new_size = (math.ceil(size_img/4 * modifier_size * modifier_size_base), size_y * modifier_size)
 new_img = img_rear.resize(new_size)
 background.paste(new_img, offset)
 # Back - end
@@ -146,8 +149,8 @@ background.paste(new_img, offset)
 img_x_right, img_y_right = new_size
 offset = (0, img_y_right + img_y_rear)
 modifier_size =  math.ceil(bg_w / bg_h)
-size_y = math.ceil(size_max_x * (bg_w / bg_h) / modifier_size_modifier)
-new_size = (size_max_x * modifier_size * modifier_size_base, size_y * modifier_size)
+size_y = math.ceil(size_img/4 * (bg_w / bg_h) / modifier_size_modifier)
+new_size = (math.ceil(size_img/4 * modifier_size * modifier_size_base), size_y * modifier_size)
 new_img = img_right.resize(new_size)
 background.paste(new_img, offset)
 # Right - end
@@ -156,8 +159,8 @@ background.paste(new_img, offset)
 img_x_left, img_y_left = new_size
 offset = (0, img_y_left + img_y_right + img_y_rear)
 modifier_size =  math.ceil(bg_w / bg_h)
-size_y = math.ceil(size_max_x * (bg_w / bg_h) / modifier_size_modifier)
-new_size = (size_max_x * modifier_size * modifier_size_base, size_y * modifier_size)
+size_y = math.ceil(size_img/4 * (bg_w / bg_h) / modifier_size_modifier)
+new_size = (math.ceil(size_img/4 * modifier_size * modifier_size_base), size_y * modifier_size)
 new_img = img_left.resize(new_size)
 background.paste(new_img, offset)
 # Left - end
@@ -166,8 +169,8 @@ background.paste(new_img, offset)
 img_x_top, img_y_top = new_size
 offset = (0, img_y_left + img_y_right + img_y_rear + img_y_top)
 modifier_size =  math.ceil(bg_w / bg_h)
-size_y = math.ceil(size_max_x * (bg_w / bg_h) / modifier_size_modifier)
-new_size = (size_max_x * modifier_size * modifier_size_base, size_y * modifier_size)
+size_y = math.ceil(size_img/4 * (bg_w / bg_h) / modifier_size_modifier)
+new_size = (math.ceil(size_img/4 * modifier_size * modifier_size_base), size_y * modifier_size)
 new_img = img_top.resize(new_size)
 background.paste(new_img, offset)
 # Top - end
@@ -176,8 +179,8 @@ background.paste(new_img, offset)
 img_x_right, img_y_right = new_size
 offset = (0, img_y_left + img_y_right + img_y_rear + img_y_top + img_y_right)
 modifier_size =  math.ceil(bg_w / bg_h)
-size_y = math.ceil(size_max_x * (bg_w / bg_h) / modifier_size_modifier)
-new_size = (size_max_x * modifier_size * modifier_size_base, size_y * modifier_size)
+size_y = math.ceil(size_img/4 * (bg_w / bg_h) / modifier_size_modifier)
+new_size = (math.ceil(size_img/4 * modifier_size * modifier_size_base), size_y * modifier_size)
 new_img = img_bottom.resize(new_size)
 background.paste(new_img, offset)
 # Bottom - end
