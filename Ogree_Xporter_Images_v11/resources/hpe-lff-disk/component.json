@@ -1,0 +1,24 @@
+{ 
+    "slug"        : "hpe-lff-disk",
+    "description" : "HPE - LFF Disk",
+    "category"    : "device",
+    "sizeWDHmm"   : [101.85,146.99, 26.11],
+    "fbxModel"    : "",
+    "attributes"  : {
+        "type"        : "harddisk",
+        "vendor"      : "SEAGATE",
+        "model"       : "Exos Enteprise 16TB",
+        "capacity"    : "16000"
+    },
+  "textures": {
+    "front": "front.png",
+    "rear": "rear.png",
+    "top": "top.png",
+    "bottom": "bottom.png",
+    "left": "left.png",
+    "right": "right.png"
+  },
+    "colors"     : [],
+    "components" : [],
+    "slots"      : []
+}
