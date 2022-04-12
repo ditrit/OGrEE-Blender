@@ -23,7 +23,7 @@ def create_total_mesh(input, output, resolution, blender_path):
             json_component =  json.load(open(item, 'r'))
             
     # Taking image from source - end
-    tex = glob.glob("inputs\\" + input + "\\**\\*.png", recursive=True)
+    tex = glob.glob("inputs/" + input + "/**/*.png", recursive=True)
     background = PIL.Image.new(mode="RGB", size=(resolution, resolution))
     bg_w, bg_h = background.size
 
@@ -126,8 +126,8 @@ def create_total_mesh(input, output, resolution, blender_path):
 
     # Start blender
     os.chdir(blender_path)
-    print("CMD >> cd " + os.path.dirname(__file__) + "\\blr_main.py")
-    os.system("blender --background --python " + os.path.dirname(__file__) + "\\blr_main.py")
+    print("CMD >> cd " + os.path.dirname(__file__) + "/blr_main.py")
+    os.system("blender --background --python " + os.path.dirname(__file__) + "/blr_main.py")
 
 #Script
 parser = argparse.ArgumentParser(description='Create a mesh for OGrEE 3D.')
