@@ -9,3 +9,22 @@ OgreeXporter is a custom converter from JSON to FBX.
 
 ## Installation Guide
 
+Go to this folder and make:
+
+```sh
+pip install -r requirements.txt 
+```
+After that, you'll be able to make, to see help:
+
+```sh
+python main.py -h
+```
+
+``-in``: (Input) Only set the name of the model, not the entier path. Absolute path is coming soon.
+
+``-out``: (Output) Do not works yet. Will allow to set the output path.
+
+``-r``: (Resolution) Allows to set specific resolution for the model.
+
+``-b``: (Blender path) Allows to set specific path to use to start Blender.
+
