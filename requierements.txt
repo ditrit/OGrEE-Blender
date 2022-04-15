@@ -1,5 +1,0 @@
-Pillow
-Request
-matplotlib
-numpy
-scipy

@@ -9,6 +9,3 @@ OgreeXporter is a custom converter from JSON to FBX.
 
 ## Installation Guide
 
-1. Customize ./data/config.json according to your OS
-2. Start ./main.py
-3. Enjoy, and check your input/output folders
