@@ -20,11 +20,18 @@ After that, you'll be able to make, to see help:
 python main.py -h
 ```
 
-``-in``: (Input) Only set the name of the model, not the entier path. Absolute path is coming soon.
+``-i``: (Input) root path to search JSON models.  
 
-``-out``: (Output) Do not works yet. Will allow to set the output path.
+if arg is a directory, loops on each JSON found recursively from this dir
+if arg is a JSON file, only render this file
+
+``-o``: (Output) output directory / optional 
+- if not specified, FBX are rendered into `./outputs`
+- Output names are based on input JSONs.
 
 ``-r``: (Resolution) Allows to set specific resolution for the model.
 
-``-b``: (Blender path) Allows to set specific path to use to start Blender.
+``-b``: (Blender path)  full path of blender binary
+
+- not optional
 
