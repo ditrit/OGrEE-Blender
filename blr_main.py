@@ -39,6 +39,7 @@ else:
 os.chdir(os.environ.get("TMP"))
 f = open(os.environ.get("TMP") + "/ogree_data.txt", "r").read()
 file = f.splitlines()
+print("OUTPUT = " + file[1] + "/" + file[0].split('\\')[len(file[0].split('\\'))-1] + ".fbx")
 obj_name = file[0]
 output = file[1]
-bpy.ops.export_scene.fbx(filepath = output + "/" + obj_name + ".fbx", path_mode="COPY", embed_textures=True)
+bpy.ops.export_scene.fbx(filepath = file[1] + "/" + file[0].split('\\')[len(file[0].split('\\'))-1] + ".fbx", path_mode="COPY", embed_textures=True)

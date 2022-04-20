@@ -17,14 +17,13 @@ modifier_size_modifier = 1.5
 # Variable part - End
 
 def create_total_mesh(input, output, resolution, blender_path, args):
-    name_image = input
-    potential_json = glob.glob("inputs/**/" + input + ".json", recursive=True)
+    potential_json = glob.glob(input + "/**/*.json", recursive=True)
     for item in potential_json:
         if item.endswith(".json"):
             json_component =  json.load(open(item, 'r'))
             
     # Taking image from source - end
-    tex = glob.glob("inputs/" + input + "/**/*.png", recursive=True)
+    tex = glob.glob(input + "/**/*.png", recursive=True)
     background = PIL.Image.new(mode="RGB", size=(resolution, resolution))
     bg_w, bg_h = background.size
 
