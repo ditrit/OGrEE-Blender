@@ -9,13 +9,14 @@ import requests
 import glob
 import math
 import argparse
+import logging as log
 
 # Variable part - Start
 modifier_size_base = 4
 modifier_size_modifier = 1.5
 # Variable part - End
 
-def create_total_mesh(input, output, resolution, blender_path):
+def create_total_mesh(input, output, resolution, blender_path, args):
     name_image = input
     potential_json = glob.glob("inputs/**/" + input + ".json", recursive=True)
     for item in potential_json:
@@ -122,7 +123,7 @@ def create_total_mesh(input, output, resolution, blender_path):
 
     background.save('temp/out.png')
 
-    normal.generate_definitive_normal('temp/out.png', 'temp/normal.png', 0.5, 1)
+    normal.generate_definitive_normal(os.environ + '/out.png', os.environ + '/normal.png', 0.5, 1)
 
     # Start blender
     os.chdir(blender_path)
@@ -132,15 +133,15 @@ def create_total_mesh(input, output, resolution, blender_path):
 #Script
 parser = argparse.ArgumentParser(description='Create a mesh for OGrEE 3D.')
     
-parser.add_argument('-in', '--object', default="/inputs", type=str, help='Object to build')
-parser.add_argument('-out', '--output_folder_mesh', default=os.path.dirname(__file__) + "/outputs", type=str, help='Folder base for creating mesh')
+parser.add_argument('-i', '--object', default="/inputs", type=str, help='Object to build')
+parser.add_argument('-o', '--output', default=os.path.dirname(__file__) + "/outputs", type=str, help='Folder base for creating mesh')
 parser.add_argument('-r', '--resolution', default=512, type=int, help='Texture resolution')
-parser.add_argument('-b', '--blender', default="C:/Program Files/Blender Foundation/Blender 3.1", type=str, help='Blender path')
+parser.add_argument('-b', '--blender', type=str, help='Blender path')
 args = parser.parse_args()
 mesh_to_build = args.object
 output_folder_mesh = args.output_folder_mesh
 resolution = args.resolution
 blender_path = args.blender
-create_total_mesh(mesh_to_build, output_folder_mesh, resolution, blender_path)
+create_total_mesh(mesh_to_build, output_folder_mesh, resolution, blender_path, args)
     
 
