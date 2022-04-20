@@ -121,9 +121,9 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         print("No bottom")
     # Recover image - end
 
-    background.save('temp/out.png')
+    background.save(os.environ.get("TMP") + '/out.png')
 
-    normal.generate_definitive_normal(os.environ + '/out.png', os.environ + '/normal.png', 0.5, 1)
+    normal.generate_definitive_normal(os.environ.get("TMP") + '/out.png', os.environ.get("TMP") + '/normal.png', 0.5, 1)
 
     # Start blender
     os.chdir(blender_path)
@@ -139,9 +139,14 @@ parser.add_argument('-r', '--resolution', default=512, type=int, help='Texture r
 parser.add_argument('-b', '--blender', type=str, help='Blender path')
 args = parser.parse_args()
 mesh_to_build = args.object
-output_folder_mesh = args.output_folder_mesh
+output_folder_mesh = args.output
 resolution = args.resolution
 blender_path = args.blender
+
+f = open(os.environ.get("TMP") + "/ogree_data.txt", "w")
+f.write(mesh_to_build + "\n" + output_folder_mesh)
+f.close()
+
 create_total_mesh(mesh_to_build, output_folder_mesh, resolution, blender_path, args)
     
 

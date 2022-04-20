@@ -15,7 +15,7 @@ mat = bpy.data.materials.new(name="Disk")
 mat.use_nodes = True
 bsdf = mat.node_tree.nodes["Principled BSDF"]
 texImage = mat.node_tree.nodes.new('ShaderNodeTexImage')
-texImage.image = bpy.data.images.load(os.path.dirname(__file__) + "/temp/out.png")
+texImage.image = bpy.data.images.load(os.environ.get("TMP") + "/out.png")
 mat.node_tree.links.new(bsdf.inputs['Base Color'], texImage.outputs['Color'])
 
 # - - - NORMAL PART - - -
@@ -24,7 +24,7 @@ mat.node_tree.links.new(bsdf.inputs['Base Color'], texImage.outputs['Color'])
 
 # Creating image for normal map
 norm = mat.node_tree.nodes.new('ShaderNodeTexImage')
-norm.image = bpy.data.images.load(os.path.dirname(__file__) + "/temp/normal.png")
+norm.image = bpy.data.images.load(os.environ.get("TMP") + "/normal.png")
 mat.node_tree.links.new(bsdf.inputs['Normal'], norm.outputs['Color'])
 
 
@@ -36,5 +36,9 @@ if ob.data.materials:
 else:
     ob.data.materials.append(mat)
 
-nbfile = len(os.listdir(os.path.dirname(__file__) + "/outputs/"))
-bpy.ops.export_scene.fbx(filepath = os.path.dirname(__file__) + "/outputs/hardisk_" + str(nbfile) + ".fbx", path_mode="COPY", embed_textures=True)
+os.chdir(os.environ.get("TMP"))
+f = open(os.environ.get("TMP") + "/ogree_data.txt", "r").read()
+file = f.splitlines()
+obj_name = file[0]
+output = file[1]
+bpy.ops.export_scene.fbx(filepath = output + "/" + obj_name + ".fbx", path_mode="COPY", embed_textures=True)
