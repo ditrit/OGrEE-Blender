@@ -1,4 +1,5 @@
 from email.policy import default
+from platform import platform
 from PIL import Image
 import PIL
 import math
@@ -16,17 +17,17 @@ modifier_size_base = 4
 modifier_size_modifier = 1.5
 # Variable part - End
 
-def create_total_mesh(input, output, resolution, blender_path, args):
-    potential_json = glob.glob(input + "/**/*.json", recursive=True)
-    for item in potential_json:
-        if item.endswith(".json"):
-            json_component =  json.load(open(item, 'r'))
-            
+def create_total_mesh(input, resolution, args):
+    # Used to generate mesh, not for texturing 
+    # json_file = glob.glob(input + "/**/" + os.path.basename(input) + ".json", recursive=True)
+    log.info("Looking for PNGs according to the basename of the input path")        
     # Taking image from source - end
     tex = glob.glob(input + "/**/*.png", recursive=True)
+    log.info("Creating base background")  
     background = PIL.Image.new(mode="RGB", size=(resolution, resolution))
     bg_w, bg_h = background.size
 
+    log.info("Looking for images one by one")  
     for item in tex:
         if item.endswith("front.png"):
             img_front_path = item
@@ -41,6 +42,7 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         if item.endswith("left.png"):
             img_left_path = item
     
+    log.info("Treatment of FRONT image...")
     try:
         img_front = Image.open(img_front_path, "r")
         # Front - start
@@ -52,7 +54,9 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         background.paste(new_img, offset)
         # Front - end
     except:
-        print("No front")
+        log.warning("No front")
+
+    log.info("Treatment of REAR image...")
     try:
         img_rear = Image.open(img_rear_path, "r")
         # Back - start
@@ -65,7 +69,10 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         background.paste(new_img, offset)
         # Back - end
     except:
-        print("No rear")
+        log.warning("No rear")
+
+        
+    log.info("Treatment of RIGHT image...")
     try:
         img_right = Image.open(img_right_path, "r")
         # Right - start
@@ -78,7 +85,10 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         background.paste(new_img, offset)
         # Right - end
     except:
-        print("No right")
+        log.warning("No right")
+
+        
+    log.info("Treatment of LEFT image...")
     try:
         img_left = Image.open(img_left_path, "r")
         # Left - start
@@ -91,7 +101,10 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         background.paste(new_img, offset)
         # Left - end
     except:
-        print("No left")
+        log.warning("No left")
+
+    
+    log.info("Treatment of TOP image...")
     try:
         img_top = Image.open(img_top_path, "r")
         # Top - start
@@ -104,7 +117,10 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         background.paste(new_img, offset)
         # Top - end
     except:
-        print("No top")
+        log.warning("No top")
+
+        
+    log.info("Treatment of BOTTOM image...")
     try:
         img_bottom = Image.open(img_bottom_path, "r")
         # Bottom - start
@@ -117,20 +133,31 @@ def create_total_mesh(input, output, resolution, blender_path, args):
         background.paste(new_img, offset)
         # Bottom - end
     except:
-        print("No bottom")
+        log.warning("No bottom")
     # Recover image - end
 
+    log.info("Saving image...")
     background.save(os.environ.get("TMP") + '/out.png')
+    log.info("Image saved!")
 
+    log.info("Generating normal map...")
     normal.generate_definitive_normal(os.environ.get("TMP") + '/out.png', os.environ.get("TMP") + '/normal.png', 0.5, 1)
+    log.info("Normal map generated...")
 
     # Start blender
-    blender_dir = os.path.dirname(args.blender)
-    print("blendir_dir:", blender_dir)
-
-    os.chdir(blender_dir)
-    print("CMD >> cd " + os.path.dirname(__file__) + "/blr_main.py")
+    if platform == "linux":
+        log.info("Linux OS detected")
+        blender_dir = os.path.dirname(args.blender)
+        log.info("Starting Blender from:", blender_dir)
+        os.chdir(blender_dir)
+    else:
+        log.info("Other OS than Linux detected")
+        log.info("Starting Blender from:", args.blender)
+        os.chdir(args.blender)
+    
+    log.info("Starting Blender!")
     os.system("blender --background --python " + os.path.dirname(__file__) + "/blr_main.py")
+    log.info("Ended texture generation and application!")
 
 #Script
 parser = argparse.ArgumentParser(description='Create a mesh for OGrEE 3D.')
@@ -139,16 +166,23 @@ parser.add_argument('-i', '--object', default="/inputs", type=str, help='Object 
 parser.add_argument('-o', '--output', default=os.path.dirname(__file__) + "/outputs", type=str, help='Folder base for creating mesh', required=True)
 parser.add_argument('-r', '--resolution', default=512, type=int, help='Texture resolution', required=False)
 parser.add_argument('-b', '--blender', type=str, help='Blender path', required=True)
+parser.add_argument('-v', '--verbose',
+    choices=["INFO", "WARNING", "ERROR", "DEBUG"],
+    help="Verbose level",
+    default="DEBUG")
 args = parser.parse_args()
 mesh_to_build = args.object
 output_folder_mesh = args.output
 resolution = args.resolution
 blender_path = args.blender
 
+numeric_level = getattr(log, args.verbose.upper())
+log.basicConfig(format="[%(levelname)s][%(asctime)s]: %(message)s", level=numeric_level)
+
 f = open(os.environ.get("TMP") + "/ogree_data.txt", "w")
 f.write(mesh_to_build + "\n" + output_folder_mesh)
 f.close()
 
-create_total_mesh(mesh_to_build, output_folder_mesh, resolution, blender_path, args)
+create_total_mesh(mesh_to_build, resolution, args)
     
 
