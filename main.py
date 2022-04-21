@@ -142,7 +142,7 @@ output_folder_mesh = args.output
 resolution = args.resolution
 blender_path = args.blender
 
-f = open(str(os.environ.get("TMP")) + "/ogree_data.txt", "w")
+f = open(os.environ.get("TMP") + "/ogree_data.txt", "w")
 f.write(mesh_to_build + "\n" + output_folder_mesh)
 f.close()
 
