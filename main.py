@@ -132,17 +132,17 @@ def create_total_mesh(input, output, resolution, blender_path, args):
 #Script
 parser = argparse.ArgumentParser(description='Create a mesh for OGrEE 3D.')
     
-parser.add_argument('-i', '--object', default="/inputs", type=str, help='Object to build')
-parser.add_argument('-o', '--output', default=os.path.dirname(__file__) + "/outputs", type=str, help='Folder base for creating mesh')
-parser.add_argument('-r', '--resolution', default=512, type=int, help='Texture resolution')
-parser.add_argument('-b', '--blender', type=str, help='Blender path')
+parser.add_argument('-i', '--object', default="/inputs", type=str, help='Object to build', required=True)
+parser.add_argument('-o', '--output', default=os.path.dirname(__file__) + "/outputs", type=str, help='Folder base for creating mesh', required=True)
+parser.add_argument('-r', '--resolution', default=512, type=int, help='Texture resolution', required=False)
+parser.add_argument('-b', '--blender', type=str, help='Blender path', required=True)
 args = parser.parse_args()
 mesh_to_build = args.object
 output_folder_mesh = args.output
 resolution = args.resolution
 blender_path = args.blender
 
-f = open(os.environ.get("TMP") + "/ogree_data.txt", "w")
+f = open(str(os.environ.get("TMP")) + "/ogree_data.txt", "w")
 f.write(mesh_to_build + "\n" + output_folder_mesh)
 f.close()
 

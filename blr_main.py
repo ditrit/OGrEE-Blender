@@ -36,8 +36,7 @@ if ob.data.materials:
 else:
     ob.data.materials.append(mat)
 
-os.chdir(os.environ.get("TMP"))
-f = open(os.environ.get("TMP") + "/ogree_data.txt", "r").read()
+f = open(str(os.environ.get("TMP")) + "/ogree_data.txt", "r").read()
 file = f.splitlines()
 obj_name = file[0]
 output = file[1]
