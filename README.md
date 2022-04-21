@@ -35,3 +35,6 @@ if arg is a JSON file, only render this file
 
 - not optional
 
+If Blender does not work on Linux, try:
+``export PATH=/your/blender/directory:$PATH``
+
