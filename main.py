@@ -125,7 +125,10 @@ def create_total_mesh(input, output, resolution, blender_path, args):
     normal.generate_definitive_normal(os.environ.get("TMP") + '/out.png', os.environ.get("TMP") + '/normal.png', 0.5, 1)
 
     # Start blender
-    os.chdir(blender_path)
+    blender_dir = os.path.dirname(args.blender)
+    print("blendir_dir:", blender_dir)
+
+    os.chdir(blender_dir)
     print("CMD >> cd " + os.path.dirname(__file__) + "/blr_main.py")
     os.system("blender --background --python " + os.path.dirname(__file__) + "/blr_main.py")
 
