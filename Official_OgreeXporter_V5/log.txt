@@ -1,0 +1,5205 @@
+EPIC TEST >> /media/orness/Elements/__SEND/ORNESS/data/
+ERROR: ALREADY EXISTS
+62
+0
+DDN_42u_rack.json == 700  1140  2000
+DDN_42u_rack == 700  1140  2000
+LENS >> 10
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\DDN_42u_rack.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/DDN_42u_rack.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000118 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000070 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000055 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000033 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000026 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000411 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000156 sec)
+
+FBX export fetch remaining...
+	Done (0.000012 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0040 sec.
+1
+Cannot find the sizeWDHmm. Wrong JSON.
+device_schema == 700  1140  2000
+LENS >> 4
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\device_schema.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/device_schema.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000046 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000033 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000032 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000034 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000577 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000229 sec)
+
+FBX export fetch remaining...
+	Done (0.000013 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0042 sec.
+2
+gigabyte-g481-s80.json == 447  822  176
+gigabyte-g481-s80 == 447  822  176
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\gigabyte-g481-s80.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/gigabyte-g481-s80.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000037 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000029 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.001424 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000162 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0047 sec.
+3
+gigabyte-g481-s80_debug.json == 666.75  1155.7  488.95
+gigabyte-g481-s80_debug == 666.75  1155.7  488.95
+LENS >> 11
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\gigabyte-g481-s80_debug.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/gigabyte-g481-s80_debug.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000042 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000044 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000370 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000140 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0037 sec.
+4
+gigabyte-g481-s80_rtk.json == 447  822  176
+gigabyte-g481-s80_rtk == 447  822  176
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\gigabyte-g481-s80_rtk.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/gigabyte-g481-s80_rtk.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000033 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000027 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000347 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000136 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+5
+ibm-dx360m4.json == 444  404  41
+ibm-dx360m4 == 444  404  41
+LENS >> 10
+total_size_sub [14, 11, 11] eth1
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [14, 11, 11] eth2
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [14, 11, 11] imm2
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [16, 11, 8] vga
+total_size_sub[value_slot/components] ==> [16, 11, 8]
+SIZE_SUB ==> 16, 11, 8
+total_size_sub [16, 11, 8] com1
+total_size_sub[value_slot/components] ==> [16, 11, 8]
+SIZE_SUB ==> 16, 11, 8
+total_size_sub [18, 11, 8] ib1
+total_size_sub[value_slot/components] ==> [18, 11, 8]
+SIZE_SUB ==> 18, 11, 8
+total_size_sub [18, 11, 8] ib2
+total_size_sub[value_slot/components] ==> [18, 11, 8]
+SIZE_SUB ==> 18, 11, 8
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-dx360m4.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-dx360m4.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000231 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000030 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000078 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000053 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000030 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000192 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000017 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000017 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000014 sec)
+
+FBX export fetch meshes (8)...
+	Done (0.002773 sec)
+
+FBX export fetch objects (8)...
+	Done (0.000946 sec)
+
+FBX export fetch remaining...
+	Done (0.000019 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0090 sec.
+6
+ibm-g8052.json == 439  381  44.5
+ibm-g8052 == 439  381  44.5
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-g8052.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-g8052.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000040 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000025 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000032 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000032 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000007 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000354 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000143 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0035 sec.
+7
+ibm-idpx-7825-1rx.json == 1200  600  2093
+ibm-idpx-7825-1rx == 1200  600  2093
+LENS >> 17
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-idpx-7825-1rx.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-idpx-7825-1rx.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000033 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000425 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000135 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+8
+ibm-idpx-7913.json == 446  555  87.8
+ibm-idpx-7913 == 446  555  87.8
+LENS >> 9
+total_size_sub [85, 100, 85] fan01
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [85, 100, 85] fan02
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [85, 100, 85] fan03
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [85, 100, 85] fan04
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [89, 180, 44.15] psu1
+total_size_sub[value_slot/components] ==> [89, 180, 44.15]
+SIZE_SUB ==> 89, 180, 44.15
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-idpx-7913.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-idpx-7913.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000073 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000055 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000139 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000025 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000011 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000011 sec)
+
+FBX export fetch meshes (6)...
+	Done (0.002019 sec)
+
+FBX export fetch objects (6)...
+	Done (0.000806 sec)
+
+FBX export fetch remaining...
+	Done (0.000030 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0076 sec.
+9
+ibm-idpx-7919.json == 483  568  87.8
+ibm-idpx-7919 == 483  568  87.8
+LENS >> 9
+total_size_sub [85, 100, 85] fan01
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [85, 100, 85] fan02
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [85, 100, 85] fan03
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [85, 100, 85] fan04
+total_size_sub[value_slot/components] ==> [85, 100, 85]
+SIZE_SUB ==> 85, 100, 85
+total_size_sub [97, 100, 44.15] psu1
+total_size_sub[value_slot/components] ==> [97, 100, 44.15]
+SIZE_SUB ==> 97, 100, 44.15
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-idpx-7919.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-idpx-7919.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000073 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000054 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000029 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000126 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (6)...
+	Done (0.001813 sec)
+
+FBX export fetch objects (6)...
+	Done (0.000652 sec)
+
+FBX export fetch remaining...
+	Done (0.000024 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0072 sec.
+10
+ibm-ns1200.json == 447  914.5  263.3
+ibm-ns1200 == 447  914.5  263.3
+LENS >> 9
+total_size_sub [450, 30, 270] midplane
+total_size_sub[value_slot/components] ==> [450, 30, 270]
+SIZE_SUB ==> 450, 30, 270
+total_size_sub [40, 230, 90] fpc
+total_size_sub[value_slot/components] ==> [40, 230, 90]
+SIZE_SUB ==> 40, 230, 90
+total_size_sub [45, 230, 90] psu01
+total_size_sub[value_slot/components] ==> [45, 230, 90]
+SIZE_SUB ==> 45, 230, 90
+total_size_sub [90, 115, 90] fan01
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+total_size_sub [44, 230, 90] psu06
+total_size_sub[value_slot/components] ==> [44, 230, 90]
+SIZE_SUB ==> 44, 230, 90
+total_size_sub [88, 115, 90] fan10
+total_size_sub[value_slot/components] ==> [88, 115, 90]
+SIZE_SUB ==> 88, 115, 90
+total_size_sub [88, 115, 90] fan09
+total_size_sub[value_slot/components] ==> [88, 115, 90]
+SIZE_SUB ==> 88, 115, 90
+total_size_sub [44, 230, 90] psu05
+total_size_sub[value_slot/components] ==> [44, 230, 90]
+SIZE_SUB ==> 44, 230, 90
+total_size_sub [88, 115, 90] fan08
+total_size_sub[value_slot/components] ==> [88, 115, 90]
+SIZE_SUB ==> 88, 115, 90
+total_size_sub [88, 115, 90] fan07
+total_size_sub[value_slot/components] ==> [88, 115, 90]
+SIZE_SUB ==> 88, 115, 90
+total_size_sub [45, 230, 90] psu04
+total_size_sub[value_slot/components] ==> [45, 230, 90]
+SIZE_SUB ==> 45, 230, 90
+total_size_sub [90, 115, 90] fan06
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+total_size_sub [45, 230, 90] psu03
+total_size_sub[value_slot/components] ==> [45, 230, 90]
+SIZE_SUB ==> 45, 230, 90
+total_size_sub [90, 115, 90] fan05
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+total_size_sub [45, 230, 90] psu02
+total_size_sub[value_slot/components] ==> [45, 230, 90]
+SIZE_SUB ==> 45, 230, 90
+total_size_sub [90, 115, 90] fan04
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+total_size_sub [90, 115, 90] fan03
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+total_size_sub [90, 115, 90] fan02
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-ns1200.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-ns1200.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000164 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000042 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000140 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000027 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000039 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000384 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000010 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000015 sec)
+
+FBX export fetch meshes (19)...
+	Done (0.005293 sec)
+
+FBX export fetch objects (19)...
+	Done (0.002079 sec)
+
+FBX export fetch remaining...
+	Done (0.000035 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0155 sec.
+11
+ibm-ns1200_fronttorear.json == 447  914.5  263.3
+ibm-ns1200_fronttorear == 447  914.5  263.3
+LENS >> 7
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-ns1200_fronttorear.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-ns1200_fronttorear.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000038 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000009 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000410 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000154 sec)
+
+FBX export fetch remaining...
+	Done (0.000011 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0036 sec.
+12
+ibm-ns1200_minimal.json == 447  914.5  263.3
+ibm-ns1200_minimal == 447  914.5  263.3
+LENS >> 9
+total_size_sub [450, 30, 270] midplane
+total_size_sub[value_slot/components] ==> [450, 30, 270]
+SIZE_SUB ==> 450, 30, 270
+total_size_sub [40, 230, 90] fpc
+total_size_sub[value_slot/components] ==> [40, 230, 90]
+SIZE_SUB ==> 40, 230, 90
+total_size_sub [45, 230, 90] psu01
+total_size_sub[value_slot/components] ==> [45, 230, 90]
+SIZE_SUB ==> 45, 230, 90
+total_size_sub [90, 115, 90] fan01
+total_size_sub[value_slot/components] ==> [90, 115, 90]
+SIZE_SUB ==> 90, 115, 90
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-ns1200_minimal.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-ns1200_minimal.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000070 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000054 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000031 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000111 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (5)...
+	Done (0.001505 sec)
+
+FBX export fetch objects (5)...
+	Done (0.000542 sec)
+
+FBX export fetch remaining...
+	Done (0.000013 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0061 sec.
+13
+ibm-nx360m5-2p64g.json == 216  659  41
+ibm-nx360m5-2p64g == 216  659  41
+LENS >> 7
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-nx360m5-2p64g.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-nx360m5-2p64g.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000036 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000346 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000135 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+14
+ibm-rack-oriented.json == 605  1200  2003
+ibm-rack-oriented == 605  1200  2003
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-rack-oriented.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-rack-oriented.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000036 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000115 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000027 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000030 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000007 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000011 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000405 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000154 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0045 sec.
+15
+ibm-rack.json == 605  1200  2003
+ibm-rack == 605  1200  2003
+LENS >> 11
+total_size_sub [482.6, 1138, 44.45] u01
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u02
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u03
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u04
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u05
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u06
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u07
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u08
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u09
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u10
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u11
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u12
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u13
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u14
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u15
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u16
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u17
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u18
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u19
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u20
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u21
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u22
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u23
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u24
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u25
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u26
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u27
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u28
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u29
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u30
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u31
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u32
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u33
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u34
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u35
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u36
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u37
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u38
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u39
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u40
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u41
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [482.6, 1138, 44.45] u42
+total_size_sub[value_slot/components] ==> [482.6, 1138, 44.45]
+SIZE_SUB ==> 482.6, 1138, 44.45
+total_size_sub [44.45, 670, 444.5] l03
+total_size_sub[value_slot/components] ==> [44.45, 670, 444.5]
+SIZE_SUB ==> 44.45, 670, 444.5
+total_size_sub [44.45, 670, 444.5] l17
+total_size_sub[value_slot/components] ==> [44.45, 670, 444.5]
+SIZE_SUB ==> 44.45, 670, 444.5
+total_size_sub [44.45, 670, 444.5] l30
+total_size_sub[value_slot/components] ==> [44.45, 670, 444.5]
+SIZE_SUB ==> 44.45, 670, 444.5
+total_size_sub [44.45, 670, 444.5] r03
+total_size_sub[value_slot/components] ==> [44.45, 670, 444.5]
+SIZE_SUB ==> 44.45, 670, 444.5
+total_size_sub [44.45, 670, 444.5] r17
+total_size_sub[value_slot/components] ==> [44.45, 670, 444.5]
+SIZE_SUB ==> 44.45, 670, 444.5
+total_size_sub [44.45, 670, 444.5] r30
+total_size_sub[value_slot/components] ==> [44.45, 670, 444.5]
+SIZE_SUB ==> 44.45, 670, 444.5
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-rack.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-rack.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000376 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000084 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000345 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000047 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000031 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000130 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000110 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000045 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.001019 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000013 sec)
+
+FBX export fetch meshes (49)...
+	Done (0.013399 sec)
+
+FBX export fetch objects (49)...
+	Done (0.005408 sec)
+
+FBX export fetch remaining...
+	Done (0.000111 sec)
+
+FBX export fetch animations...
+	Done (0.000013 sec)
+
+export finished in 0.0348 sec.
+16
+ibm-rack42u-1100-enterprise.json == 600  1100  2009
+ibm-rack42u-1100-enterprise == 600  1100  2009
+LENS >> 10
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-rack42u-1100-enterprise.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-rack42u-1100-enterprise.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000035 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000464 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000172 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0035 sec.
+17
+ibm-rack42u-1200-deep.json == 605  1200  2003
+ibm-rack42u-1200-deep == 605  1200  2003
+LENS >> 10
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-rack42u-1200-deep.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-rack42u-1200-deep.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000050 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000024 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000032 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000033 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000035 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000012 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000624 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000339 sec)
+
+FBX export fetch remaining...
+	Done (0.000015 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0043 sec.
+18
+ibm-smpdu.json == 447  350  43.9
+ibm-smpdu == 447  350  43.9
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-smpdu.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-smpdu.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000038 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000373 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000143 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+19
+intel-xeon-e5-2697v3.json == 97  97  30
+intel-xeon-e5-2697v3 == 97  97  30
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\intel-xeon-e5-2697v3.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/intel-xeon-e5-2697v3.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000033 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000023 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000460 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000170 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0040 sec.
+20
+mellanox-connectx3-qdr-1p-lp.json == 52  142  10
+mellanox-connectx3-qdr-1p-lp == 52  142  10
+LENS >> 9
+total_size_sub [22, 10, 8] p1
+total_size_sub[value_slot/components] ==> [22, 10, 8]
+SIZE_SUB ==> 22, 10, 8
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-connectx3-qdr-1p-lp.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-connectx3-qdr-1p-lp.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000043 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000027 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000028 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000055 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (2)...
+	Done (0.000604 sec)
+
+FBX export fetch objects (2)...
+	Done (0.000317 sec)
+
+FBX export fetch remaining...
+	Done (0.000011 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0040 sec.
+21
+mellanox-connectx3-qdr-2p-lp.json == 52  142  10
+mellanox-connectx3-qdr-2p-lp == 52  142  10
+LENS >> 9
+total_size_sub [22, 60, 8] p2
+total_size_sub[value_slot/components] ==> [22, 60, 8]
+SIZE_SUB ==> 22, 60, 8
+total_size_sub [22, 60, 8] p1
+total_size_sub[value_slot/components] ==> [22, 60, 8]
+SIZE_SUB ==> 22, 60, 8
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-connectx3-qdr-2p-lp.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-connectx3-qdr-2p-lp.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000055 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000036 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000031 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000029 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000110 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000010 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (3)...
+	Done (0.001095 sec)
+
+FBX export fetch objects (3)...
+	Done (0.000362 sec)
+
+FBX export fetch remaining...
+	Done (0.000013 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0049 sec.
+22
+mellanox-connectx3-qdr-2p.json == 69  142  10
+mellanox-connectx3-qdr-2p == 69  142  10
+LENS >> 9
+total_size_sub [22, 60, 8] p2
+total_size_sub[value_slot/components] ==> [22, 60, 8]
+SIZE_SUB ==> 22, 60, 8
+total_size_sub [22, 60, 8] p1
+total_size_sub[value_slot/components] ==> [22, 60, 8]
+SIZE_SUB ==> 22, 60, 8
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-connectx3-qdr-2p.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-connectx3-qdr-2p.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000059 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000073 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (3)...
+	Done (0.001094 sec)
+
+FBX export fetch objects (3)...
+	Done (0.000430 sec)
+
+FBX export fetch remaining...
+	Done (0.000016 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0051 sec.
+23
+mellanox-linecard.json == 210  315  40
+mellanox-linecard == 210  315  40
+LENS >> 9
+total_size_sub [18, 15, 8] p01
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p02
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p03
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p04
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p05
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p06
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p07
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p08
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p09
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p10
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p11
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p12
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p13
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p14
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p15
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p16
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p17
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+total_size_sub [18, 15, 8] p18
+total_size_sub[value_slot/components] ==> [18, 15, 8]
+SIZE_SUB ==> 18, 15, 8
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-linecard.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-linecard.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000294 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000070 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000228 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000044 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000298 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000084 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000611 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000007 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000016 sec)
+
+FBX export fetch meshes (19)...
+	Done (0.005684 sec)
+
+FBX export fetch objects (19)...
+	Done (0.001996 sec)
+
+FBX export fetch remaining...
+	Done (0.000023 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0171 sec.
+24
+mellanox-mgmtcard.json == 462  315  22
+mellanox-mgmtcard == 462  315  22
+LENS >> 9
+total_size_sub [14, 15, 11] i2c
+total_size_sub[value_slot/components] ==> [14, 15, 11]
+SIZE_SUB ==> 14, 15, 11
+total_size_sub [14, 15, 11] cons
+total_size_sub[value_slot/components] ==> [14, 15, 11]
+SIZE_SUB ==> 14, 15, 11
+total_size_sub [14, 15, 11] mgt
+total_size_sub[value_slot/components] ==> [14, 15, 11]
+SIZE_SUB ==> 14, 15, 11
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-mgmtcard.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-mgmtcard.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000059 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000045 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000043 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000097 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (4)...
+	Done (0.001235 sec)
+
+FBX export fetch objects (4)...
+	Done (0.000443 sec)
+
+FBX export fetch remaining...
+	Done (0.000013 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0055 sec.
+25
+mellanox-sx6036.json == 439  381  44.5
+mellanox-sx6036 == 439  381  44.5
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-sx6036.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-sx6036.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000053 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000030 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000031 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000011 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000449 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000183 sec)
+
+FBX export fetch remaining...
+	Done (0.000011 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0037 sec.
+26
+mellanox-sx6536.json == 482  685  1286
+mellanox-sx6536 == 482  685  1286
+LENS >> 9
+total_size_sub [41, 294, 127] ps10
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps8
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps6
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps4
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps2
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps9
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps7
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps5
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps3
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] ps1
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [335, 300, 44.5] s18
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s17
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s16
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s15
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s14
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s13
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s12
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s11
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s10
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s09
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s08
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s07
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s06
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s05
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s04
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s03
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s02
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] s01
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [125, 200, 125] fan5
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan6
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan7
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan8
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan2
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan1
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan4
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan3
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [482, 680, 40] outletsb
+total_size_sub[value_slot/components] ==> [482, 680, 40]
+SIZE_SUB ==> 482, 680, 40
+total_size_sub [28, 10, 21] out01
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out02
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out03
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out04
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out05
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [482, 680, 40] outletst
+total_size_sub[value_slot/components] ==> [482, 680, 40]
+SIZE_SUB ==> 482, 680, 40
+total_size_sub [28, 20, 21] out06
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out07
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out08
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out09
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out10
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-sx6536.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-sx6536.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000385 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000087 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000354 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000049 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000031 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000104 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000050 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.001125 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000013 sec)
+
+FBX export fetch meshes (49)...
+	Done (0.013800 sec)
+
+FBX export fetch objects (49)...
+	Done (0.005817 sec)
+
+FBX export fetch remaining...
+	Done (0.000058 sec)
+
+FBX export fetch animations...
+	Done (0.000108 sec)
+
+export finished in 0.0354 sec.
+27
+nvidia-p100.json == 140  80  10
+nvidia-p100 == 140  80  10
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\nvidia-p100.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/nvidia-p100.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000347 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000135 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0035 sec.
+28
+nx360m5.json == 216  659  41
+nx360m5 == 216  659  41
+LENS >> 11
+total_size_sub [97, 97, 30] cpu1
+total_size_sub[value_slot/components] ==> [97, 97, 30]
+SIZE_SUB ==> 97, 97, 30
+total_size_sub [97, 97, 30] cpu2
+total_size_sub[value_slot/components] ==> [97, 97, 30]
+SIZE_SUB ==> 97, 97, 30
+total_size_sub [1, 133, 31] cpu1.dimm1
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm2
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm3
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm4
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm5
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm6
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm7
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu1.dimm8
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm9
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm10
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm11
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm12
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm13
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm14
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm15
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [1, 133, 31] cpu2.dimm16
+total_size_sub[value_slot/components] ==> [1, 133, 31]
+SIZE_SUB ==> 1, 133, 31
+total_size_sub [51, 167, 18.2] slot2
+total_size_sub[value_slot/components] ==> [51, 167, 18.2]
+SIZE_SUB ==> 51, 167, 18.2
+total_size_sub [101, 175, 18.2] slot1
+total_size_sub[value_slot/components] ==> [101, 175, 18.2]
+SIZE_SUB ==> 101, 175, 18.2
+total_size_sub [14, 11, 11] eth1imm
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [14, 11, 11] imm2
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [14, 11, 11] eth2
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [54, 78.5, 5] hdd181
+total_size_sub[value_slot/components] ==> [54, 78.5, 5]
+SIZE_SUB ==> 54, 78.5, 5
+total_size_sub [54, 78.5, 5] hdd182
+total_size_sub[value_slot/components] ==> [54, 78.5, 5]
+SIZE_SUB ==> 54, 78.5, 5
+total_size_sub [54, 78.5, 5] hdd183
+total_size_sub[value_slot/components] ==> [54, 78.5, 5]
+SIZE_SUB ==> 54, 78.5, 5
+total_size_sub [54, 78.5, 5] hdd183
+total_size_sub[value_slot/components] ==> [54, 78.5, 5]
+SIZE_SUB ==> 54, 78.5, 5
+total_size_sub [70, 100.45, 7] hdd251
+total_size_sub[value_slot/components] ==> [70, 100.45, 7]
+SIZE_SUB ==> 70, 100.45, 7
+total_size_sub [70, 100.45, 7] hdd252
+total_size_sub[value_slot/components] ==> [70, 100.45, 7]
+SIZE_SUB ==> 70, 100.45, 7
+total_size_sub [102, 147, 26.11] hdd351
+total_size_sub[value_slot/components] ==> [102, 147, 26.11]
+SIZE_SUB ==> 102, 147, 26.11
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\nx360m5.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/nx360m5.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000248 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000057 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000216 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000033 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000046 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000027 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000597 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (31)...
+	Done (0.008777 sec)
+
+FBX export fetch objects (31)...
+	Done (0.003372 sec)
+
+FBX export fetch remaining...
+	Done (0.000055 sec)
+
+FBX export fetch animations...
+	Done (0.000011 sec)
+
+export finished in 0.0241 sec.
+29
+powerpanel-65feed.json == 5400  624  2420
+powerpanel-65feed == 5400  624  2420
+LENS >> 8
+total_size_sub [650, 624, 1600] Control
+total_size_sub[value_slot/components] ==> [650, 624, 1600]
+SIZE_SUB ==> 650, 624, 1600
+total_size_sub [650, 624, 400] GlobalBreaker
+total_size_sub[value_slot/components] ==> [650, 624, 400]
+SIZE_SUB ==> 650, 624, 400
+total_size_sub [650, 624, 420] filer0
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+total_size_sub [400, 624, 2000] Measure
+total_size_sub[value_slot/components] ==> [400, 624, 2000]
+SIZE_SUB ==> 400, 624, 2000
+total_size_sub [400, 624, 420] filer1
+total_size_sub[value_slot/components] ==> [400, 624, 420]
+SIZE_SUB ==> 400, 624, 420
+total_size_sub [400, 624, 2000] Column2
+total_size_sub[value_slot/components] ==> [400, 624, 2000]
+SIZE_SUB ==> 400, 624, 2000
+total_size_sub [400, 624, 420] filer2
+total_size_sub[value_slot/components] ==> [400, 624, 420]
+SIZE_SUB ==> 400, 624, 420
+total_size_sub [250, 100, 100] qf14
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf13
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf12
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf11
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf10
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf09
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf08
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf07
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf06
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf05
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf04
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf03
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf02
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf01
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker3
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filler3
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [650, 624, 2000] Column3b
+total_size_sub[value_slot/components] ==> [650, 624, 2000]
+SIZE_SUB ==> 650, 624, 2000
+total_size_sub [650, 624, 420] filler3b
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+total_size_sub [250, 100, 100] qf28
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf27
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf26
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf25
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf24
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf23
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf22
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf21
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf20
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf19
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf18
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf17
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf16
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf15
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker4
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filler4
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [250, 100, 100] qf42
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf41
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf40
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf39
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf38
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf37
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf36
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf35
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf34
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf33
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf32
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf31
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf30
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf29
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker5
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filler5
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [650, 624, 2000] Column5b
+total_size_sub[value_slot/components] ==> [650, 624, 2000]
+SIZE_SUB ==> 650, 624, 2000
+total_size_sub [650, 624, 420] filler5b
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+total_size_sub [250, 100, 100] qf56
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf55
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf54
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf53
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf52
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf51
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf50
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf49
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf48
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf47
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf46
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf45
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf44
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf43
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker6
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filler6
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [250, 100, 100] qf65
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf64
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf63
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf62
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf61
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf60
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf59
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf58
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf57
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 670] free
+total_size_sub[value_slot/components] ==> [400, 624, 670]
+SIZE_SUB ==> 400, 624, 670
+total_size_sub [400, 624, 200] Breaker7
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filler7
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [650, 624, 2000] Column7b
+total_size_sub[value_slot/components] ==> [650, 624, 2000]
+SIZE_SUB ==> 650, 624, 2000
+total_size_sub [650, 624, 420] filler7b
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\powerpanel-65feed.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/powerpanel-65feed.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000626 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000141 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000598 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000025 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000073 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000052 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000090 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000038 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.001805 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000013 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000009 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000033 sec)
+
+FBX export fetch meshes (90)...
+	Done (0.042643 sec)
+
+FBX export fetch objects (90)...
+	Done (0.009926 sec)
+
+FBX export fetch remaining...
+	Done (0.000115 sec)
+
+FBX export fetch animations...
+	Done (0.000010 sec)
+
+export finished in 0.0795 sec.
+30
+powerpanel-65feed_debug.json == 5400  624  2420
+powerpanel-65feed_debug == 5400  624  2420
+LENS >> 8
+total_size_sub [650, 624, 1600] Control
+total_size_sub[value_slot/components] ==> [650, 624, 1600]
+SIZE_SUB ==> 650, 624, 1600
+total_size_sub [650, 624, 400] GlobalBreaker
+total_size_sub[value_slot/components] ==> [650, 624, 400]
+SIZE_SUB ==> 650, 624, 400
+total_size_sub [650, 624, 420] filer0
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+total_size_sub [400, 624, 2000] Measure
+total_size_sub[value_slot/components] ==> [400, 624, 2000]
+SIZE_SUB ==> 400, 624, 2000
+total_size_sub [400, 624, 420] filer1
+total_size_sub[value_slot/components] ==> [400, 624, 420]
+SIZE_SUB ==> 400, 624, 420
+total_size_sub [400, 624, 2000] Column2
+total_size_sub[value_slot/components] ==> [400, 624, 2000]
+SIZE_SUB ==> 400, 624, 2000
+total_size_sub [400, 624, 420] filer2
+total_size_sub[value_slot/components] ==> [400, 624, 420]
+SIZE_SUB ==> 400, 624, 420
+total_size_sub [250, 100, 100] qf14
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf13
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf12
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf11
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf10
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf09
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf08
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf07
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf06
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf05
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf04
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf03
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf02
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf01
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker3
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filer3
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [650, 624, 2000] Column3b
+total_size_sub[value_slot/components] ==> [650, 624, 2000]
+SIZE_SUB ==> 650, 624, 2000
+total_size_sub [650, 624, 420] filer3b
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+total_size_sub [250, 100, 100] qf28
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf27
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf26
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf25
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf24
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf23
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf22
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf21
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf20
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf19
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf18
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf17
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf16
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf15
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker4
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filer4
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [250, 100, 100] qf42
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf41
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf40
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf39
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf38
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf37
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf36
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf35
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf34
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf33
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf32
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf31
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf30
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf29
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker5
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filer5
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [650, 624, 2000] Column5b
+total_size_sub[value_slot/components] ==> [650, 624, 2000]
+SIZE_SUB ==> 650, 624, 2000
+total_size_sub [650, 624, 420] filer5b
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+total_size_sub [250, 100, 100] qf56
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf55
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf54
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf53
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf52
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf51
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf50
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf49
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf48
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf47
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf46
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf45
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf44
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf43
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 200] Breaker6
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filer6
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [250, 100, 100] qf65
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf64
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf63
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf62
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf61
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf60
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf59
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf58
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf57
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [400, 624, 670] free
+total_size_sub[value_slot/components] ==> [400, 624, 670]
+SIZE_SUB ==> 400, 624, 670
+total_size_sub [400, 624, 200] Breaker7
+total_size_sub[value_slot/components] ==> [400, 624, 200]
+SIZE_SUB ==> 400, 624, 200
+total_size_sub [400, 624, 220] filer7
+total_size_sub[value_slot/components] ==> [400, 624, 220]
+SIZE_SUB ==> 400, 624, 220
+total_size_sub [650, 624, 2000] Column7b
+total_size_sub[value_slot/components] ==> [650, 624, 2000]
+SIZE_SUB ==> 650, 624, 2000
+total_size_sub [650, 624, 420] filer7b
+total_size_sub[value_slot/components] ==> [650, 624, 420]
+SIZE_SUB ==> 650, 624, 420
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\powerpanel-65feed_debug.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/powerpanel-65feed_debug.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000646 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000141 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000616 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000027 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000076 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000048 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000105 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000042 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.001627 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000021 sec)
+
+FBX export fetch meshes (90)...
+	Done (0.025391 sec)
+
+FBX export fetch objects (90)...
+	Done (0.009760 sec)
+
+FBX export fetch remaining...
+	Done (0.000094 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0626 sec.
+31
+rack_debug.json == 605  624  2003
+rack_debug == 605  624  2003
+LENS >> 9
+total_size_sub [250, 100, 100] qf01
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf02
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf03
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf04
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf05
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf06
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+total_size_sub [250, 100, 100] qf07
+total_size_sub[value_slot/components] ==> [250, 100, 100]
+SIZE_SUB ==> 250, 100, 100
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\rack_debug.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/rack_debug.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000086 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000028 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000067 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000029 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000158 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (8)...
+	Done (0.002849 sec)
+
+FBX export fetch objects (8)...
+	Done (0.001008 sec)
+
+FBX export fetch remaining...
+	Done (0.000028 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0090 sec.
+32
+Schroff_(10130-275)_600_1000_2000_42u_Side-by-side_cabinet.json == 600  1000  2000
+Schroff_(10130-275)_600_1000_2000_42u_Side-by-side_cabinet == 600  1000  2000
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-275)_600_1000_2000_42u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-275)_600_1000_2000_42u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000036 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000367 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000135 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+33
+Schroff_(10130-276)_800_1000_2000_42u_Side-by-side_cabinet.json == 800  1000  2000
+Schroff_(10130-276)_800_1000_2000_42u_Side-by-side_cabinet == 800  1000  2000
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-276)_800_1000_2000_42u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-276)_800_1000_2000_42u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000035 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000343 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000132 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+34
+Schroff_(10130-279)_600_1000_2200_47u_Side-by-side_cabinet.json == 600  1000  2200
+Schroff_(10130-279)_600_1000_2200_47u_Side-by-side_cabinet == 600  1000  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-279)_600_1000_2200_47u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-279)_600_1000_2200_47u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000035 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000027 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000351 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000139 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+35
+ERROR >> ERROR IN JSON
+Schroff_(10130-280)_800_1000_2200_47u_Side-by-side_cabinet.json == 600  1000  2200
+Schroff_(10130-280)_800_1000_2200_47u_Side-by-side_cabinet == 600  1000  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-280)_800_1000_2200_47u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-280)_800_1000_2200_47u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000343 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000134 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0033 sec.
+36
+Schroff_(10130-283)_600_1000_2450_52u_Side-by-side_cabinet.json == 600  1000  2450
+Schroff_(10130-283)_600_1000_2450_52u_Side-by-side_cabinet == 600  1000  2450
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-283)_600_1000_2450_52u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-283)_600_1000_2450_52u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000043 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000023 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000034 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000042 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000035 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000369 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000146 sec)
+
+FBX export fetch remaining...
+	Done (0.000011 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0037 sec.
+37
+Schroff_(10130-284)_800_1000_2450_52u_Side-by-side_cabinet.json == 800  1000  2450
+Schroff_(10130-284)_800_1000_2450_52u_Side-by-side_cabinet == 800  1000  2450
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-284)_800_1000_2450_52u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-284)_800_1000_2450_52u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000343 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000134 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0033 sec.
+38
+Schroff_(10130-285)_600_1200_2000_42u_Side-by-side_cabinet.json == 600  1200  2000
+Schroff_(10130-285)_600_1200_2000_42u_Side-by-side_cabinet == 600  1200  2000
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-285)_600_1200_2000_42u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-285)_600_1200_2000_42u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000032 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000348 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000136 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+39
+Schroff_(10130-286)_800_1200_2000_42u_Side-by-side_cabinet.json == 800  1200  2000
+Schroff_(10130-286)_800_1200_2000_42u_Side-by-side_cabinet == 800  1200  2000
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-286)_800_1200_2000_42u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-286)_800_1200_2000_42u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000393 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000164 sec)
+
+FBX export fetch remaining...
+	Done (0.000011 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0035 sec.
+40
+Schroff_(10130-289)_600_1200_2200_47u_Side-by-side_cabinet.json == 600  1200  2200
+Schroff_(10130-289)_600_1200_2200_47u_Side-by-side_cabinet == 600  1200  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-289)_600_1200_2200_47u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-289)_600_1200_2200_47u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000037 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000027 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000351 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000133 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+41
+ERROR : Cannot open file
+Schroff_(10630-009)_600_1000_2000_42u_Single_cabinet_Adjustable == 600  1000  2000
+Schroff_(10630-009)_600_1000_2000_42u_Single_cabinet_Adjustable == 600  1000  2000
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-009)_600_1000_2000_42u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-009)_600_1000_2000_42u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000035 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000021 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000036 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000014 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000010 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000013 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000456 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000191 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0038 sec.
+42
+ERROR : Cannot open file
+Schroff_(10630-010)_600_1000_2200_47u_Single_cabinet_Adjustable == 600  1000  2200
+Schroff_(10630-010)_600_1000_2200_47u_Single_cabinet_Adjustable == 600  1000  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-010)_600_1000_2200_47u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-010)_600_1000_2200_47u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000042 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000035 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000010 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000010 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000378 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000146 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0036 sec.
+43
+ERROR : Cannot open file
+Schroff_(10630-011)_800_1000_2000_42u_Single_cabinet_Adjustable == 800  1000  2000
+Schroff_(10630-011)_800_1000_2000_42u_Single_cabinet_Adjustable == 800  1000  2000
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-011)_800_1000_2000_42u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-011)_800_1000_2000_42u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000035 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000373 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000171 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0035 sec.
+44
+ERROR : Cannot open file
+Schroff_(10630-012)_800_1000_2200_47u_Single_cabinet_Adjustable == 800  1000  2200
+Schroff_(10630-012)_800_1000_2200_47u_Single_cabinet_Adjustable == 800  1000  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-012)_800_1000_2200_47u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-012)_800_1000_2200_47u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000039 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000031 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000011 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000374 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000145 sec)
+
+FBX export fetch remaining...
+	Done (0.000011 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+45
+ERROR : Cannot open file
+Schroff_(10630-013)_600_1000_2000_42u_Single_cabinet_Castor_and == 600  1000  2000
+Schroff_(10630-013)_600_1000_2000_42u_Single_cabinet_Castor_and == 600  1000  2000
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-013)_600_1000_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-013)_600_1000_2000_42u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000035 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000048 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000036 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000031 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000348 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000138 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+46
+ERROR : Cannot open file
+Schroff_(10630-014)_600_1000_2200_47u_Single_cabinet_Castor_and == 600  1000  2200
+Schroff_(10630-014)_600_1000_2200_47u_Single_cabinet_Castor_and == 600  1000  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-014)_600_1000_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-014)_600_1000_2200_47u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000042 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000027 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000432 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000166 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0036 sec.
+47
+ERROR : Cannot open file
+Schroff_(10630-015)_800_1000_2000_42u_Single_cabinet_Castor_and == 800  1000  2000
+Schroff_(10630-015)_800_1000_2000_42u_Single_cabinet_Castor_and == 800  1000  2000
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-015)_800_1000_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-015)_800_1000_2000_42u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000045 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000017 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000033 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000035 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000009 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000425 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000153 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0036 sec.
+48
+ERROR : Cannot open file
+Schroff_(10630-016)_800_1000_2200_47u_Single_cabinet_Castor_and == 800  1000  2200
+Schroff_(10630-016)_800_1000_2200_47u_Single_cabinet_Castor_and == 800  1000  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-016)_800_1000_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-016)_800_1000_2200_47u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000036 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000357 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000138 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0034 sec.
+49
+Schroff_(10130-293)_600_1200_2450_52u_Side-by-side_cabinet.json == 600  1200  2450
+Schroff_(10130-293)_600_1200_2450_52u_Side-by-side_cabinet == 600  1200  2450
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-293)_600_1200_2450_52u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-293)_600_1200_2450_52u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000038 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000023 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000027 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000350 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000141 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+50
+Schroff_(10130-294)_800_1200_2450_52u_Side-by-side_cabinet.json == 800  1200  2450
+Schroff_(10130-294)_800_1200_2450_52u_Side-by-side_cabinet == 800  1200  2450
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-294)_800_1200_2450_52u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-294)_800_1200_2450_52u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000033 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000018 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000388 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000141 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+51
+ERROR : Cannot open file
+Schroff_(10630-001)_600_1200_2000_42u_Single_cabinet_Adjustable == 600  1200  2000
+Schroff_(10630-001)_600_1200_2000_42u_Single_cabinet_Adjustable == 600  1200  2000
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-001)_600_1200_2000_42u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-001)_600_1200_2000_42u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000027 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000335 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000146 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0033 sec.
+52
+ERROR : Cannot open file
+Schroff_(10630-002)_600_1200_2200_47u_Single_cabinet_Adjustable == 600  1200  2200
+Schroff_(10630-002)_600_1200_2200_47u_Single_cabinet_Adjustable == 600  1200  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-002)_600_1200_2200_47u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-002)_600_1200_2200_47u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000026 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000030 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000398 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000160 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000008 sec)
+
+export finished in 0.0035 sec.
+53
+ERROR : Cannot open file
+Schroff_(10630-003)_800_1200_2000_42u_Single_cabinet_Adjustable == 800  1200  2000
+Schroff_(10630-003)_800_1200_2000_42u_Single_cabinet_Adjustable == 800  1200  2000
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-003)_800_1200_2000_42u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-003)_800_1200_2000_42u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000048 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000023 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000035 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000033 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000036 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000006 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000352 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000139 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0036 sec.
+54
+ERROR : Cannot open file
+Schroff_(10630-004)_800_1200_2200_47u_Single_cabinet_Adjustable == 800  1200  2200
+Schroff_(10630-004)_800_1200_2200_47u_Single_cabinet_Adjustable == 800  1200  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-004)_800_1200_2200_47u_Single_cabinet_Adjustable_feet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-004)_800_1200_2200_47u_Single_cabinet_Adjustable_feet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000038 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000027 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000033 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000344 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000134 sec)
+
+FBX export fetch remaining...
+	Done (0.000010 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0035 sec.
+55
+ERROR : Cannot open file
+Schroff_(10630-005)_600_1200_2000_42u_Single_cabinet_Castor_and == 600  1200  2000
+Schroff_(10630-005)_600_1200_2000_42u_Single_cabinet_Castor_and == 600  1200  2000
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-005)_600_1200_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-005)_600_1200_2000_42u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000032 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000021 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000009 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000008 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000010 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000362 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000144 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+56
+ERROR : Cannot open file
+Schroff_(10630-006)_600_1200_2200_47u_Single_cabinet_Castor_and == 600  1200  2200
+Schroff_(10630-006)_600_1200_2200_47u_Single_cabinet_Castor_and == 600  1200  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-006)_600_1200_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-006)_600_1200_2200_47u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000024 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000021 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000359 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000135 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+57
+ERROR : Cannot open file
+Schroff_(10630-007)_800_1200_2000_42u_Single_cabinet_Castor_and == 800  1200  2000
+Schroff_(10630-007)_800_1200_2000_42u_Single_cabinet_Castor_and == 800  1200  2000
+LENS >> 9
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-007)_800_1200_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-007)_800_1200_2000_42u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000034 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000007 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000333 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000135 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0033 sec.
+58
+ibm-nx360m5.json == 216  659  41
+ibm-nx360m5 == 216  659  41
+LENS >> 9
+total_size_sub [14, 11, 11] eth1imm
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [14, 11, 11] eth2
+total_size_sub[value_slot/components] ==> [14, 11, 11]
+SIZE_SUB ==> 14, 11, 11
+total_size_sub [54, 78, 5] raidadapter
+total_size_sub[value_slot/components] ==> [54, 78, 5]
+SIZE_SUB ==> 54, 78, 5
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\ibm-nx360m5.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/ibm-nx360m5.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000074 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000022 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000048 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000012 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000009 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000034 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000036 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000102 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000008 sec)
+
+FBX export fetch meshes (4)...
+	Done (0.001220 sec)
+
+FBX export fetch objects (4)...
+	Done (0.000478 sec)
+
+FBX export fetch remaining...
+	Done (0.000036 sec)
+
+FBX export fetch animations...
+	Done (0.000012 sec)
+
+export finished in 0.0057 sec.
+59
+mellanox-sx6536-fronttorear.json == 482  685  1286
+mellanox-sx6536-fronttorear == 482  685  1286
+LENS >> 9
+total_size_sub [41, 294, 127] psu01
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu02
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu03
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu04
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu05
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu06
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu07
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu08
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu09
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [41, 294, 127] psu10
+total_size_sub[value_slot/components] ==> [41, 294, 127]
+SIZE_SUB ==> 41, 294, 127
+total_size_sub [335, 300, 44.5] spline18
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline17
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline16
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline15
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline14
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline13
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline12
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline11
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline10
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline09
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline08
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline07
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline06
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline05
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline04
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline03
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline02
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [335, 300, 44.5] spline01
+total_size_sub[value_slot/components] ==> [335, 300, 44.5]
+SIZE_SUB ==> 335, 300, 44.5
+total_size_sub [125, 200, 125] fan03
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan04
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan01
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan02
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan07
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan08
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan05
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [125, 200, 125] fan06
+total_size_sub[value_slot/components] ==> [125, 200, 125]
+SIZE_SUB ==> 125, 200, 125
+total_size_sub [28, 10, 21] out01
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out02
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out03
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out04
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [28, 10, 21] out05
+total_size_sub[value_slot/components] ==> [28, 10, 21]
+SIZE_SUB ==> 28, 10, 21
+total_size_sub [482, 682, 40] outlets
+total_size_sub[value_slot/components] ==> [482, 682, 40]
+SIZE_SUB ==> 482, 682, 40
+total_size_sub [28, 20, 21] out06
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out07
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out08
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out09
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+total_size_sub [28, 20, 21] out10
+total_size_sub[value_slot/components] ==> [28, 20, 21]
+SIZE_SUB ==> 28, 20, 21
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\mellanox-sx6536-fronttorear.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/mellanox-sx6536-fronttorear.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000359 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000081 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000329 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000016 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000047 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000030 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000061 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000030 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000867 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000008 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000007 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000018 sec)
+
+FBX export fetch meshes (48)...
+	Done (0.013594 sec)
+
+FBX export fetch objects (48)...
+	Done (0.005053 sec)
+
+FBX export fetch remaining...
+	Done (0.000065 sec)
+
+FBX export fetch animations...
+	Done (0.000009 sec)
+
+export finished in 0.0342 sec.
+60
+Schroff_(10130-290)_800_1200_2200_47u_Side-by-side_cabinet.json == 800  1200  2200
+Schroff_(10130-290)_800_1200_2200_47u_Side-by-side_cabinet == 800  1200  2200
+LENS >> 8
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10130-290)_800_1200_2200_47u_Side-by-side_cabinet.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10130-290)_800_1200_2200_47u_Side-by-side_cabinet.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000036 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000019 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000008 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000013 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000011 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000004 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000028 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000029 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000009 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000361 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000133 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+61
+ERROR : Cannot open file
+Schroff_(10630-008)_800_1200_2200_47u_Single_cabinet_Castor_and == 800  1200  2200
+Schroff_(10630-008)_800_1200_2200_47u_Single_cabinet_Castor_and == 800  1200  2200
+LENS >> 9
+No component... resuming...
+Making /media/orness/Elements/__SEND/ORNESS/ogree_json_demo\Schroff_(10630-008)_800_1200_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json.fbx
+
+FBX export starting... '/media/orness/Elements/__SEND/ORNESS/ogree_json_demo/Schroff_(10630-008)_800_1200_2200_47u_Single_cabinet_Castor_and_adjustable_foot.fbx'
+FBX export prepare: Wrapping Objects...
+	Done (0.000037 sec)
+
+FBX export prepare: Wrapping Data (lamps, cameras, empties)...
+	Done (0.000014 sec)
+
+FBX export prepare: Wrapping Meshes...
+	Done (0.000020 sec)
+
+FBX export prepare: Wrapping ShapeKeys...
+	Done (0.000007 sec)
+
+FBX export prepare: Wrapping Armatures...
+	Done (0.000015 sec)
+
+FBX export prepare: Wrapping World...
+	Done (0.000010 sec)
+
+FBX export prepare: Wrapping Materials...
+	Done (0.000006 sec)
+
+FBX export prepare: Wrapping Textures...
+	Done (0.000005 sec)
+
+FBX export prepare: Wrapping Animations...
+	Done (0.000025 sec)
+
+FBX export prepare: Generating templates...
+	Done (0.000022 sec)
+
+FBX export prepare: Generating Connections...
+	Done (0.000028 sec)
+
+FBX export fetch empties (0)...
+	Done (0.000005 sec)
+
+FBX export fetch lamps (0)...
+	Done (0.000006 sec)
+
+FBX export fetch cameras (0)...
+	Done (0.000006 sec)
+
+FBX export fetch meshes (1)...
+	Done (0.000349 sec)
+
+FBX export fetch objects (1)...
+	Done (0.000137 sec)
+
+FBX export fetch remaining...
+	Done (0.000009 sec)
+
+FBX export fetch animations...
+	Done (0.000007 sec)
+
+export finished in 0.0034 sec.
+OUTPUT : Issue with :
+Schroff_(10630-009)_600_1000_2000_42u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-010)_600_1000_2200_47u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-011)_800_1000_2000_42u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-012)_800_1000_2200_47u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-013)_600_1000_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-014)_600_1000_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-015)_800_1000_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-016)_800_1000_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-001)_600_1200_2000_42u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-002)_600_1200_2200_47u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-003)_800_1200_2000_42u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-004)_800_1200_2200_47u_Single_cabinet_Adjustable_feet.json
+Schroff_(10630-005)_600_1200_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-006)_600_1200_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-007)_800_1200_2000_42u_Single_cabinet_Castor_and_adjustable_foot.json
+Schroff_(10630-008)_800_1200_2200_47u_Single_cabinet_Castor_and_adjustable_foot.json
+
+OUTPUT : Cannot read these files :
+Schroff_(10130-280)_800_1000_2200_47u_Side-by-side_cabinet.json
+
+/media/orness/Elements/__SEND/ORNESS/ogree_json_demo
+Exception in module unregister(): '/media/orness/Elements/__SOFTWARES__/Linux/blender-2.93.4-linux-x64/2.93/scripts/addons/materials_utils/__init__.py'
+Blender 2.93.4 (hash b7205031cec4 built 2021-08-31 23:43:17)
+Read prefs: /home/orness/.config/blender/2.93/config/userpref.blend
+
+Blender quit
+Start as config
+Creating dependancy files...
+Writing input: /media/orness/Elements/__SEND/ORNESS/ogree_jsons in /home/orness/Documents/ogree_manager
+ALERT >> CREATING FILE AT /home/orness/Documents/ogree_manager
+Writing output: /media/orness/Elements/__SEND/ORNESS/ogree_json_demo in /home/orness/Documents/ogree_manager
+ALERT >> CREATING FILE AT /home/orness/Documents/ogree_manager
+Starting dependance...
+0. Starting Blender...
+1. Making command: cd /media/orness/Elements/__SOFTWARES__/Linux/blender-2.93.4-linux-x64
+2. Starting export script...
+Starting Blender has succeed
