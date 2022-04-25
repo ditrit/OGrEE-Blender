@@ -8,10 +8,10 @@ import os
 
 
 def resize_model(obj):
-    f = open(os.environ.get("TMP") + "/ogree_data.txt", "r").read()
+    f = open(os.environ.get("TMP") + "/ogree_index.txt", "r").read()
     file = f.splitlines()
     obj_name = file[0]
-    json_f = open(obj_name + "/" + os.path.basename(obj_name) + ".json", "r")
+    json_f = open(obj_name, "r")
     loaded_json = json.load(json_f)
     try:
       total_size = str(loaded_json["sizeWDHmm"])
@@ -75,6 +75,8 @@ mat.node_tree.links.new(bsdf.inputs['Normal'], norm.outputs['Color'])
 
 
 ob = bpy.data.objects['disk']
+
+
 resize_model(ob)
 
 # Assign it to object
@@ -83,8 +85,11 @@ if ob.data.materials:
 else:
     ob.data.materials.append(mat)
 
+file_name = open(os.environ.get("TMP") + "/ogree_index.txt", "r").read()
+
 f = open(os.environ.get("TMP") + "/ogree_data.txt", "r").read()
 file = f.splitlines()
 obj_name = file[0]
 output = file[1]
-bpy.ops.export_scene.fbx(filepath = file[1] + "/" + os.path.basename(file[0]) + ".fbx", path_mode="COPY", embed_textures=True)
+
+bpy.ops.export_scene.fbx(filepath = file[1] + "/" + os.path.basename(file_name).replace(".json", "") + ".fbx", path_mode="COPY", embed_textures=True)
