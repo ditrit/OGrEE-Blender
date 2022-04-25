@@ -1,6 +1,52 @@
+import json
 import bpy
+import bmesh
+from mathutils import Vector
+import mathutils
 from bpy import context, data, ops
 import os
+
+
+def resize_model(obj):
+    f = open(os.environ.get("TMP") + "/ogree_data.txt", "r").read()
+    file = f.splitlines()
+    obj_name = file[0]
+    json_f = open(obj_name + "/" + os.path.basename(obj_name) + ".json", "r")
+    loaded_json = json.load(json_f)
+    try:
+      total_size = str(loaded_json["sizeWDHmm"])
+      total_size = total_size.replace("[", "")
+      total_size = total_size.replace("]", "")
+      total_size = total_size.split(',')
+      x_size = total_size[0]
+      x_size.replace(",", "")
+      y_size = total_size[1]
+      y_size.replace(",", "")
+      z_size = total_size[2]
+      z_size.replace(",", "")
+    except:
+      print("Cannot find the sizeWDHmm. Wrong JSON.")
+    
+    obj.name = os.path.basename(obj_name)
+    print (obj.name + " == " + x_size + " "  + y_size + " " + z_size)
+    bpy.context.view_layer.objects.active = obj
+    bpy.ops.object.mode_set(mode = 'EDIT')
+    me = obj.data
+    bm = bmesh.from_edit_mesh(me)
+    bpy.ops.transform.resize(value=(float(x_size)/100, float(y_size)/100, float(z_size)/100), orient_type='LOCAL')
+
+    obj = context.object
+    mb = obj.matrix_basis
+    if hasattr(ob.data, "transform"):
+      obj.data.transform(mb)
+    for c in ob.children:
+      c.matrix_local = mb @ c.matrix_local
+        
+    obj.matrix_basis.identity()
+
+    bmesh.update_edit_mesh(me)
+    bpy.ops.object.mode_set(mode = 'OBJECT')
+    return obj
 
 bpy.ops.object.select_all(action='DESELECT')
 bpy.data.objects['Camera'].select_set(True) # Blender 2.8x
@@ -29,6 +75,7 @@ mat.node_tree.links.new(bsdf.inputs['Normal'], norm.outputs['Color'])
 
 
 ob = bpy.data.objects['disk']
+resize_model(ob)
 
 # Assign it to object
 if ob.data.materials:
