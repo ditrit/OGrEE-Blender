@@ -66,12 +66,12 @@ bpy.data.objects['Light'].select_set(True) # Blender 2.8x
 bpy.data.objects['Cube'].select_set(True) # Blender 2.8x
 bpy.ops.object.delete()
 
-bpy.ops.import_scene.fbx( filepath = os.path.dirname(__file__) + "/models/classic_disk.fbx" )
+bpy.ops.import_scene.fbx( filepath = os.path.dirname(__file__) + "/models/model.fbx" )
 
 #
 # - - - TEXTURE PART - - -
 #
-mat = bpy.data.materials.new(name="Disk")
+mat = bpy.data.materials.new(name="Main")
 mat.use_nodes = True
 bsdf = mat.node_tree.nodes["Principled BSDF"]
 texImage = mat.node_tree.nodes.new('ShaderNodeTexImage')
@@ -87,7 +87,7 @@ norm = mat.node_tree.nodes.new('ShaderNodeTexImage')
 norm.image = bpy.data.images.load(normalmap_file)
 mat.node_tree.links.new(bsdf.inputs['Normal'], norm.outputs['Color'])
 
-ob = bpy.data.objects['disk']
+ob = bpy.data.objects['model']
 
 resize_model(ob)
 
