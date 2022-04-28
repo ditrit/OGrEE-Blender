@@ -6,10 +6,10 @@ import glob
 import argparse
 import logging
 
-background = PIL.Image.new(mode="RGB", size=(512,512))
+
 
 def create_total_mesh(input):
-
+    background = PIL.Image.new(mode="RGB", size=(args['resolution'],args['resolution']))
     logging.info("Looking for PNGs according to the basename of the input path %s",input)    # input = /OGrEE/data/huawei/huawei-tnf6dwss9.json
     basefile = os.path.basename(input)                                                       # huawei-tnf6dwss9.json
     basename = os.path.splitext(input)[0]                                                    # /OGrEE/data/huawei/huawei-tnf6dwss9
