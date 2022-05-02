@@ -20,7 +20,8 @@ After that, you'll be able to make, to see help:
 python main.py -h
 ```
 
-``--path``: (Input) root path to search JSON models.  
+``--path``: (Input) root path to search JSON models.
+- not optional  
 ``--mode``: Allow to define if it is ``dir`` or ``file``
 
 if arg is a directory, loops on each JSON found recursively from this dir
@@ -29,14 +30,14 @@ if arg is a JSON file, only render this file
 ``-o``: (Output) output directory / optional 
 - if not specified, FBX are rendered into `./outputs`
 - Output names are based on input JSONs.
+- not optional
 
 ``-r``: (Resolution) Allows to set specific resolution for the model.
 
 ``-b``: (Blender path)  full path of blender binary
+- not optional
 
 ``--verbose``: Allow to define the verbose (INFO, WARNING, ERROR, DEBUG)
-
-- not optional
 
 ## How does it works?
 
