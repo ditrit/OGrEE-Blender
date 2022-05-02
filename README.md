@@ -20,7 +20,8 @@ After that, you'll be able to make, to see help:
 python main.py -h
 ```
 
-``-i``: (Input) root path to search JSON models.  
+``--path``: (Input) root path to search JSON models.  
+``--mode``: Allow to define if it is ``dir`` or ``file``
 
 if arg is a directory, loops on each JSON found recursively from this dir
 if arg is a JSON file, only render this file
@@ -32,6 +33,8 @@ if arg is a JSON file, only render this file
 ``-r``: (Resolution) Allows to set specific resolution for the model.
 
 ``-b``: (Blender path)  full path of blender binary
+
+``--verbose``: Allow to define the verbose (INFO, WARNING, ERROR, DEBUG)
 
 - not optional
 
@@ -49,4 +52,4 @@ Set full path, also in Blender path.
 Set shortpath for Blender path.
 
 **Example:** 
-``PROGRA~1/BLENDE~1/BLENDE~1.0/BLENDE~1.EXE``
+``python main.py --path your/input/directory --mode dir -o your/output/directory -r 2048 -b PROGRA~1/BLENDE~1/BLENDE~1.0/BLENDE~1.EXE``
