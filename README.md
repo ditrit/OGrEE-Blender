@@ -37,7 +37,7 @@ if arg is a JSON file, only render this file
 
 ## How does it works?
 
-[![Image](https://i.goopics.net/jxxs16.png)](https://goopics.net/i/jxxs16)
+[![Image](https://i.goopics.net/ci3ola.png)](https://goopics.net/i/ci3ola)
 
 This tool is working within Blender (in background mode) and Python 3.
 
