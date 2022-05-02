@@ -97,4 +97,4 @@ if ob.data.materials:
 else:
     ob.data.materials.append(mat)
 
-bpy.ops.export_scene.fbx(filepath = fbx_file, path_mode = "COPY", embed_textures = True)
+bpy.ops.export_scene.fbx(filepath = fbx_file, path_mode = "COPY",apply_scale_options='FBX_SCALE_UNITS', global_scale =0.01, embed_textures = True)
