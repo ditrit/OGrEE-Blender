@@ -53,4 +53,4 @@ Set full path, also in Blender path.
 Set shortpath for Blender path.
 
 **Example:** 
-``python main.py --path your/input/directory --mode dir -o your/output/directory -r 2048 -b PROGRA~1/BLENDE~1/BLENDE~1.0/BLENDE~1.EXE``
+``python main.py --path your/input/directory --mode dir -o your/output/directory -r 2048 -b PROGRA~1/BLENDE~1/BLENDE~1.0/BLENDE~1.EXE`` --verbose DEBUG
