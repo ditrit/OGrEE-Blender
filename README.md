@@ -35,3 +35,18 @@ if arg is a JSON file, only render this file
 
 - not optional
 
+## How does it works?
+
+[![Image](https://i.goopics.net/jxxs16.png)](https://goopics.net/i/jxxs16)
+
+This tool is working within Blender (in background mode) and Python 3.
+
+### On Linux
+
+Set full path, also in Blender path.
+
+### On Windows
+Set shortpath for Blender path.
+
+**Example:** 
+``PROGRA~1/BLENDE~1/BLENDE~1.0/BLENDE~1.EXE``
