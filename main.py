@@ -13,18 +13,21 @@ def create_total_mesh(input):
     logging.info("Looking for PNGs according to the basename of the input path %s",input)    # input = /OGrEE/data/huawei/huawei-tnf6dwss9.json
     basefile = os.path.basename(input)                                                       # huawei-tnf6dwss9.json
     basename = os.path.splitext(input)[0]                                                    # /OGrEE/data/huawei/huawei-tnf6dwss9
+    dirname = os.path.dirname(input)
+    logging.debug(dirname + "/**/" + basefile.replace(".json","*.png"))
     image_background = os.environ.get("TMP") + "/" + basefile.replace(".json",".out.png")    # /tmp/huawei-tnf6dwss9.out.png
     image_normalmap = os.environ.get("TMP") + "/" + basefile.replace(".json",".normal.png")  # /tmp/huawei-tnf6dwss9.normal.png
     
-    #tex = glob.glob(basename + "*.png", recursive=True)
- 
-    logging.info("Fill background with textures")  
     offsetY = args['resolution'] // 6
-
     faces_offset = { 'front':0, 'rear':1, 'right':2, 'left':3, 'top':4, 'bottom':5 }
-
+    textures = glob.glob(dirname + "/**/" + basefile.replace(".json","*.png"), recursive=True)
+    logging.debug(textures)    
+    if not textures:
+       logging.warning("No texture for %s, skip it", input)
+       return 
+    
     logging.debug("Looping over textures")
-    for item in glob.glob(basename + "*.png", recursive=True):
+    for item in textures:
         logging.debug(" loop: %s", item)
         filename, file_extension = os.path.splitext(item)
         print("ext", file_extension)
@@ -53,7 +56,6 @@ def create_total_mesh(input):
     logging.info("Normal map generated... %s ", image_normalmap)
 
     logging.info("Starting Blender from: %s", blender_dir)
-    os.chdir(blender_dir)
     os.system(args['blender'] + " --background --python " + os.path.dirname(__file__) + "/blr_main.py -- " + input + " " + args['outdir'])
     logging.info("Ended texture generation and application!")
 
@@ -89,13 +91,13 @@ logging.info("Creating empty background from resolution parameter")
 new_size = args['resolution'] , args['resolution'] // 6
 
 if args['mode'] == 'file':
-    logging.info("Beginning the processing of an JSON... in mode: file : %s",args['path'])
-    create_total_mesh(args['path'])
+    logging.info("Processing JSON in file mode : %s",args['path'])
+    create_total_mesh(os.path.abspath(args['path']))
 
 if args['mode'] == 'dir':
      for json in glob.glob(args['path'] + '/*.json'):
-         logging.info("Beginning the processing of an JSON... in mode: dir %s", json)
-         create_total_mesh(json)
+         logging.info("Processing JSON in dir mode %s", json)
+         create_total_mesh(os.path.abspath(json))
 
     
 
