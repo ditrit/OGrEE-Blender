@@ -5,8 +5,10 @@ import normal_map_generator as normal
 import glob
 import argparse
 import logging
+import re
 
-
+def glob_re(pattern, strings):
+    return filter(re.compile(pattern).match, strings)
 
 def create_total_mesh(input):
     background = PIL.Image.new(mode="RGB", size=(args['resolution'],args['resolution']))
@@ -19,9 +21,12 @@ def create_total_mesh(input):
     image_normalmap = os.environ.get("TMP") + "/" + basefile.replace(".json",".normal.png")  # /tmp/huawei-tnf6dwss9.normal.png
     
     offsetY = args['resolution'] // 6
-    faces_offset = { 'front':0, 'rear':1, 'right':2, 'left':3, 'top':4, 'bottom':5 }
-    textures = glob.glob(dirname + "/**/" + basefile.replace(".json","*.png"), recursive=True)
-    logging.debug(textures)    
+    #faces_offset = { 'front':0, 'rear':1, 'right':2, 'left':3, 'top':4, 'bottom':5 }
+    # looking for <basefile>.png recursively
+    textures = glob.glob(dirname + "/**/" + basefile.replace(".json",".png"), recursive=True) 
+    # looking for <basefile>.<face>.png recursively
+    textures += glob.glob(dirname + "/**/" + basefile.replace(".json",".*.png"), recursive=True)
+    logging.debug("textures :%s", textures)    
     if not textures:
        logging.warning("No texture for %s, skip it", input)
        return 
